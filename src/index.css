@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+.card-footer {
+  margin-top: 50px;
+}
